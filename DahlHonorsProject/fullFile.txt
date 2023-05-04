@@ -1,0 +1,508 @@
+Ochai Agbaji,Western,North West,Jazz,30,75,215,G,0
+Udoka Azubuike,Western,North West,Jazz,20,81,270,C,0
+Jarrell Brantley,Western,North West,Jazz,5,75,250,F,0
+Jordan Clarkson,Western,North West,Jazz,00,75,194,G,1
+Kris Dunn,Western,North West,Jazz,11,73,205,G,0
+Simone Fontecchio,Western,North West,Jazz,16,77,209,F,0
+Rudy Gay,Western,North West,Jazz,22,78,250,F,0
+Talen Horton-Tucker,Western,North West,Jazz,0,74,234,G,0
+Damian Jones,Western,North West,Jazz,15,81,245,C,0
+Johnny Juzang,Western,North West,Jazz,33,76,209,G,0
+Walker Kessler,Western,North West,Jazz,24,82,240,C,1
+Lauri Markkanen,Western,North West,Jazz,23,82,240,F,1
+Kelly Olynyk,Western,North West,Jazz,41,81,240,F,1
+Micah Potter,Western,North West,Jazz,25,78,248,C,0
+Luka Samanic,Western,North West,Jazz,91,80,227,F,0
+Collin Sexton,Western,North West,Jazz,2,72,190,G,1
+Juan Toscano-Anderson,Western,North West,Jazz,95,76,209,F,0
+Ibou Badji,Western,North West,Trail Blazers,41,83,240,C,0
+John Butler Jr,Western,North West,Trail Blazers,21,82,190,F,0
+Drew Eubanks,Western,North West,Trail Blazers,24,80,245,F,0
+Jerami Grant,Western,North West,Trail Blazers,9,78,210,F,1
+Shaquille Harrison,Western,North West,Trail Blazers,3,74,195,G,0
+Keon Johnson,Western,North West,Trail Blazers,6,73,185,G,0
+Kevin Knox II,Western,North West,Trail Blazers,11,77,215,F,0
+Damian Lillard,Western,North West,Trail Blazers,0,72,195,G,1
+Nassir Little,Western,North West,Trail Blazers,10,75,220,F,0
+Skylar Mays,Western,North West,Trail Blazers,8,74,205,G,0
+Jusuf Nurkic,Western,North West,Trail Blazers,27,82,290,C,1
+Cam Reddish,Western,North West,Trail Blazers,5,78,217,F,0
+Shaedon Sharpe,Western,North West,Trail Blazers,17,75,200,G,0
+Anfernee Simons,Western,North West,Trail Blazers,1,73,181,G,1
+Matisse Thybulle,Western,North West,Trail Blazers,4,75,201,G,1
+Jabari Walker,Western,North West,Trail Blazers,34,77,200,F,0
+Trendon Watford,Western,North West,Trail Blazers,2,78,237,F,0
+Jeenathan Williams,Western,North West,Trail Blazers,13,75,205,G,0
+Justise Winslow,Western,North West,Trail Blazers,26,76,22,F,0
+Christian Braun,Western,North West,Nuggets,0,76,220,G,0
+Bruce Brown,Western,North West,Nuggets,11,74,202,F,0
+Thomas Bryant,Western,North West,Nuggets,13,80,248,C,0
+Kentavious Caldwell-Pope,Western,North West,Nuggets,5,75,204,G,1
+Vlatko Cancar,Western,North West,Nuggets,31,78,236,F,0
+Collin Gillespie,Western,North West,Nuggets,21,71,195,G,0
+Aaron Gordon,Western,North West,Nuggets,50,78,235,F,1
+Jeff Green,Western,North West,Nuggets,32,78,235,F,0
+Reggie Jackson,Western,North West,Nuggets,7,72,208,G,0
+Nikola Jokic,Western,North West,Nuggets,15,81,284,C,1
+DeAndre Jordan,Western,North West,Nuggets,6,81,265,C,0
+Jamal Murray,Western,North West,Nuggets,27,74,215,G,1
+Zeke Nnaji,Western,North West,Nuggets,22,79,240,F,0
+Michael Porter Jr,Western,North West,Nuggets,1,80,218,F,1
+Ish Smith,Western,North West,Nuggets,14,70,175,G,0
+Peyton Watson,Western,North West,Nuggets,8,77,200,F,0
+Jack White,Western,North West,Nuggets,10,77,225,F,0
+Jared Butler,Western,North West,Thunder,14,73,193,G,0
+Ousmane Dieng,Western,North West,Thunder,13,79,185,F,0
+Luguentz Dort,Western,North West,Thunder,5,74,220,F,1
+Josh Giddey,Western,North West,Thunder,3,78,216,G,1
+Shai Gilgeous-Alexander,Western,North West,Thunder,2,76,195,G,1
+Chet Holmgren,Western,North West,Thunder,7,83,195,C,0
+Isaiah Joe,Western,North West,Thunder,11,73,165,G,0
+Tre Mann,Western,North West,Thunder,23,73,178,G,0
+Aleksej Pokusevski,Western,North West,Thunder,17,82,190,F,0
+Jeremiah Robinson-Earl,Western,North West,Thunder,50,78,240,C,0
+Dario Saric,Western,North West,Thunder,9,80,225,F,0
+Olivier Sarr,Western,North West,Thunder,30,82,240,C,0
+Lindy Waters III,Western,North West,Thunder,12,76,210,F,0
+Aaron Wiggins,Western,North West,Thunder,21,75,190,G,0
+Jalen Williams,Western,North West,Thunder,8,76,195,F,1
+Jaylin Williams,Western,North West,Thunder,6,79,240,C,1
+Kenrich Williams,Western,North West,Thunder,34,76,210,F,0
+Nickeil Alexander-Walker,Western,North West,Timberwolves,9,75,205,G,0
+Kyle Anderson,Western,North West,Timberwolves,5,79,230,F,1
+Mike Conley,Western,North West,Timberwolves,10,71,175,G,1
+Anthony Edwards,Western,North West,Timberwolves,1,74,225,G,1
+Luka Garza,Western,North West,Timberwolves,55,80,243,C,0
+Rudy Gobert,Western,North West,Timberwolves,27,83,258,C,1
+Nathan Knight,Western,North West,Timberwolves,13,78,253,F,0
+Jaden McDaniels,Western,North West,Timberwolves,3,79,185,F,0
+Jordan McLaughlin,Western,North West,Timberwolves,6,70,185,G,0
+Josh Minott,Western,North West,Timberwolves,8,78,205,F,0
+Wendell Moore Jr,Western,North West,Timberwolves,7,75,215,G,0
+Jaylen Nowell,Western,North West,Timberwolves,4,74,201,G,0
+Taurean Prince,Western,North West,Timberwolves,12,76,218,F,0
+Naz Reid,Western,North West,Timberwolves,11,79,264,C,0
+Austin Rivers,Western,North West,Timberwolves,25,74,200,G,0
+Matt Ryan,Western,North West,Timberwolves,37,76,215,F,0
+Karl-Anthony Towns,Western,North West,Timberwolves,32,82,248,F,1
+Dominick Barlow,Western,South West,Spurs,26,79,215,F,0
+Charles Bassey,Western,South West,Spurs,28,79,230,C,0
+Keita Bates-Diop,Western,South West,Spurs,31,78,229,F,0
+Khem Birch,Western,South West,Spurs,24,78,233,C,0
+Malaki Branham,Western,South West,Spurs,22,74,180,G,0
+Julian Champagnie,Western,South West,Spurs,30,77,217,F,1
+Zach Collins,Western,South West,Spurs,23,81,250,F,0
+Gorgui Dieng,Western,South West,Spurs,41,80,265,C,0
+Devonte Graham,Western,South West,Spurs,4,71,195,G,0
+Keldon Johnson,Western,South West,Spurs,3,75,220,F,1
+Tre Jones,Western,South West,Spurs,33,71,185,G,1
+Romeo Langford,Western,South West,Spurs,35,75,216,G,0
+Sandro Mamukelashvili,Western,South West,Spurs,54,80,240,F,0
+Doug McDermott,Western,South West,Spurs,17,76,225,F,0
+Jeremy Sochan,Western,South West,Spurs,10,78,230,F,1
+Devin Vassell,Western,South West,Spurs,24,75,200,G,1
+Blake Wesley,Western,South West,Spurs,14,74,185,G,0
+Jose Alvarado,Western,South West,Pelicans,15,70,179,G,0
+Dyson Daniels,Western,South West,Pelicans,11,77,199,G,0
+Jaxson Hayes,Western,South West,Pelicans,10,82,220,C,0
+Willy Hermangomez,Western,South West,Pelicans,9,81,250,C,0
+Brandon Ingram,Western,South West,Pelicans,14,78,190,F,1
+Herbert Jones,Western,South West,Pelicans,5,77,206,F,1
+Kira Lewis Jr,Western,South West,Pelicans,13,71,170,G,0
+E.J. Liddell,Western,South West,Pelicans,32,76,240,F,0
+Naji Marshall,Western,South West,Pelicans,8,77,220,F,0
+CJ McCollum,Western,South West,Pelicans,3,73,190,G,1
+Trey Murphy III,Western,South West,Pelicans,25,78,206,G,0
+Larry Nance Jr,Western,South West,Pelicans,22,78,245,F,0
+Josh Richardson,Western,South West,Pelicans,2,76,200,G,0
+Dereon Seabron,Western,South West,Pelicans,0,75,180,G,0
+Garrett Temple,Western,South West,Pelicans,41,76,195,F,0
+Jonas Valanciunas,Western,South West,Pelicans,17,81,265,C,1
+Zion Williamson,Western,South West,Pelicans,1,76,284,F,1
+Steven Adams,Western,South West,Grizzlies,4,81,265,C,1
+Santi Aldama,Western,South West,Grizzlies,7,81,215,F,0
+Desmond Bane,Western,South West,Grizzlies,22,75,215,G,1
+Dillon Brooks,Western,South West,Grizzlies,24,77,225,F,1
+Kennedy Chandler,Western,South West,Grizzlies,1,70,171,G,0
+Brandon Clarke,Western,South West,Grizzlies,15,78,215,C,0
+Jaren Jackson Jr,Western,South West,Grizzlies,13,81,242,F,1
+Tyus Jones,Western,South West,Grizzlies,21,70,196,G,0
+Luke Kennard,Western,South West,Grizzlies,10,75,206,G,0
+John Konchar,Western,South West,Grizzlies,46,75,210,G,0
+Jake LaRavia,Western,South West,Grizzlies,3,78,235,F,0
+Kenneth Lofton Jr,Western,South West,Grizzlies,6,77,275,F,0
+Ja Morant,Western,South West,Grizzlies,12,73,174,G,1
+David Roddy,Western,South West,Grizzlies,27,75,252,F,0
+Xavier Tillman,Western,South West,Grizzlies,2,78,245,F,0
+Ziare Williams,Western,South West,Grizzlies,8,79,185,F,0
+Vince Williams Jr,Western,South West,Grizzlies,5,76,205,G,0
+D.J. Augustin,Western,South West,Rockets,4,69,183,G,0
+Josh Christopher,Western,South West,Rockets,9,74,215,G,0
+Darius Days,Western,South West,Rockets,5,77,245,F,0
+Tari Eason,Western,South West,Rockets,17,78,215,F,0
+Usman Garuba,Western,South West,Rockets,16,78,229,F,0
+Jalen Green,Western,South West,Rockets,4,74,186,G,1
+Trevor Hudgins,Western,South West,Rockets,12,70,180,G,0
+Frank Kaminsky,Western,South West,Rockets,33,82,240,C,0
+Boban Marjanovic,Western,South West,Rockets,51,86,290,C,0
+Kenyon Martin Jr,Western,South West,Rockets,6,77,215,F,1
+Daishen Nix,Western,South West,Rockets,15,74,226,G,0
+Kevin Porter Jr,Western,South West,Rockets,3,74,226,G,1
+Alperen Sengun,Western,South West,Rockets,28,81,243,C,1
+Jabari Smith Jr,Western,South West,Rockets,1,81,220,F,1
+Jae'Sean Tate,Western,South West,Rockets,8,75,230,F,0
+TyTy Washington Jr,Western,South West,Rockets,0,73,195,G,0
+Davis Bertans,Western,South West,Mavericks,44,80,225,F,0
+Reggie Bullock,Western,South West,Mavericks,25,76,205,F,1
+Luka Doncic,Western,South West,Mavericks,77,77,230,G,1
+Josh Green,Western,South West,Mavericks,8,77,200,G,0
+Tim Hardaway Jr,Western,South West,Mavericks,11,75,205,F,1
+Jaden Hardy,Western,South West,Mavericks,3,73,198,G,0
+Justin Holiday,Western,South West,Mavericks,0,76,180,F,0
+Kyrie Irving,Western,South West,Mavericks,2,72,195,G,1
+Maxi Kleber,Western,South West,Mavericks,42,80,240,F,0
+A.J. Lawson,Western,South West,Mavericks,9,76,179,G,0
+JaVale McGee,Western,South West,Mavericks,00,82,270,C,0
+Markeiff Morris,Western,South West,Mavericks,13,79,245,F,0
+Frank Ntilikina,Western,South West,Mavericks,21,74,200,G,0
+Theo Pinson,Western,South West,Mavericks,1,77,212,G,0
+Dwight Powell,Western,South West,Mavericks,7,80,240,C,1
+Christian Wood,Western,South West,Mavericks,35,79,214,C,0
+McKinley Wright IV,Western,South West,Mavericks,23,69,192,G,0
+Harrison Barnes,Western,Pacific,Kings,40,78,225,F,1
+Terence Davis,Western,Pacific,Kings,3,74,201,G,0
+Matthew Dellavedova,Western,Pacific,Kings,8,73,200,G,0
+PJ Dozier,Western,Pacific,Kings,35,76,205,G,0
+Kessler Edwards,Western,Pacific,Kings,14,77,203,F,0
+Keon Ellis,Western,Pacific,Kings,23,73,175,G,0
+De'Aaron Fox,Western,Pacific,Kings,5,73,185,G,1
+Richaun Holmes,Western,Pacific,Kings,22,79,235,F,0
+Kevin Huerter,Western,Pacific,Kings,9,77,198,G,1
+Alex Len,Western,Pacific,Kings,25,83,250,C,0
+Trey Lyles,Western,Pacific,Kings,41,79,234,F,0
+Chimezie Metu,Western,Pacific,Kings,7,79,225,F,0
+Davion Mitchell,Western,Pacific,Kings,15,70,202,G,0
+Malik Monk,Western,Pacific,Kings,0,73,200,G,1
+Keegan Murray,Western,Pacific,Kings,13,78,215,F,1
+Neemias Queta,Western,Pacific,Kings,88,82,248,C,0
+Domantas Sabonis,Western,Pacific,Kings,10,82,240,C,1
+Deandre Ayton,Western,Pacific,Suns,22,82,250,C,1
+Darius Bazley,Western,Pacific,Suns,55,79,216,F,0
+Bismack Biyombo,Western,Pacific,Suns,18,78,255,C,0
+Devin Booker,Western,Pacific,Suns,1,75,206,G,1
+Torrey Craig,Western,Pacific,Suns,0,77,221,F,0
+Kevin Durant,Western,Pacific,Suns,35,80,240,F,1
+Jock Landale,Western,Pacific,Suns,11,81,255,C,0
+Damion Lee,Western,Pacific,Suns,10,75,210,G,0
+Saben Lee,Western,Pacific,Suns,38,72,183,G,0
+Josh Okogie,Western,Pacific,Suns,2,74,213,F,1
+Chris Paul,Western,Pacific,Suns,3,70,175,G,1
+Cameron Payne,Western,Pacific,Suns,15,71,183,G,0
+Terrence Ross,Western,Pacific,Suns,8,77,206,G,0
+Landry Shamet,Western,Pacific,Suns,14,74,190,G,0
+Ish Wainright,Western,Pacific,Suns,12,75,250,F,0
+T.J. Warren,Western,Pacific,Suns,21,78,220,F,0
+Mo Bamba,Western,Pacific,Lakers,12,82,231,C,0
+Malik Beasley,Western,Pacific,Lakers,5,74,187,G,0
+Troy Brown Jr,Western,Pacific,Lakers,7,76,215,F,0
+Max Christie,Western,Pacific,Lakers,10,75,190,G,0
+Anthony Davis,Western,Pacific,Lakers,3,80,253,C,1
+Wenyen Gabriel,Western,Pacific,Lakers,35,79,205,F,0
+Rui Hachimura,Western,Pacific,Lakers,28,78,230,F,0
+LeBron James,Western,Pacific,Lakers,6,79,250,F,1
+Scotty Pippen Jr,Western,Pacific,Lakers,14,72,170,G,0
+Austin Reaves,Western,Pacific,Lakers,15,75,197,G,1
+Davon Reed,Western,Pacific,Lakers,11,75,206,G,0
+D'Angelo Russell,Western,Pacific,Lakers,1,74,193,G,1
+Dennis Schroder,Western,Pacific,Lakers,17,71,172,G,0
+Cole Swider,Western,Pacific,Lakers,20,79,220,F,0
+Jarred Vanderbilt,Western,Pacific,Lakers,2,78,214,F,1
+Lonnie Walker IV,Western,Pacific,Lakers,4,74,204,G,0
+Nicolas Batum,Western,Pacific,Clippers,33,78,230,F,1
+Brandon Boston Jr,Western,Pacific,Clippers,4,76,188,G,0
+Amir Coffey,Western,Pacific,Clippers,7,77,210,G,0
+Robert Covington,Western,Pacific,Clippers,23,77,209,F,0
+Moussa Diabete,Western,Pacific,Clippers,25,80,210,F,0
+Paul George,Western,Pacific,Clippers,13,78,220,F,1
+Eric Gordon,Western,Pacific,Clippers,10,73,215,G,0
+Bones Hyland,Western,Pacific,Clippers,5,72,169,G,0
+Kawhi Leonard,Western,Pacific,Clippers,2,77,225,F,1
+Terance Mann,Western,Pacific,Clippers,14,75,215,G,0
+Xavier Moon,Western,Pacific,Clippers,15,70,165,G,0
+Marcus Morris Sr,Western,Pacific,Clippers,8,78,218,F,0
+Mason Plumlee,Western,Pacific,Clippers,44,82,254,C,0
+Norman Powell,Western,Pacific,Clippers,24,73,215,G,0
+Jacob Preston,Western,Pacific,Clippers,17,73,181,G,0
+Russell Westbrook,Western,Pacific,Clippers,0,73,200,G,1
+Ivica Zubac,Western,Pacific,Clippers,40,82,240,C,1
+Cole Anthony,Eastern,South East,Magic,50,73,185,G,0
+Paolo Banchero,Eastern,South East,Magic,5,80,250,F,1
+Goga Bitadze,Eastern,South East,Magic,88,81,250,C,0
+Bol Bol,Eastern,South East,Magic,10,84,220,C,0
+Wendell Carter Jr,Eastern,South East,Magic,34,80,270,C,1
+Michael Carter-Williams,Eastern,South East,Magic,11,75,190,G,0
+Markelle Fultz,Eastern,South East,Magic,20,74,209,G,1
+Gary Harris,Eastern,South East,Magic,14,74,210,G,0
+Kevon Harris,Eastern,South East,Magic,7,76,216,G,0
+Caleb Houstan,Eastern,South East,Magic,2,78,205,G,0
+Jonathan Isaac,Eastern,South East,Magic,1,80,230,F,0
+Chuma Okeke,Eastern,South East,Magic,3,78,229,F,0
+Admiral Schofield,Eastern,South East,Magic,25,75,241,F,0
+Jay Scrubb,Eastern,South East,Magic,0,75,220,G,0
+Jalen Suggs,Eastern,South East,Magic,4,75,205,G,1
+Franz Wagner,Eastern,South East,Magic,22,80,220,F,1
+Moritz Wagner,Eastern,South East,Magic,21,81,245,C,0
+Patrick Baldwin Jr,Western,Pacific,Warriors,7,79,220,F,0
+Stephen Curry,Western,Pacific,Warriors,30,72,185,G,1
+Donte DiVincenzo,Western,Pacific,Warriors,0,74,203,G,0
+Draymond Green,Western,Pacific,Warriors,23,76,230,F,1
+JaMychal Green,Western,Pacific,Warriors,1,79,227,F,0
+Andre Iguodala,Western,Pacific,Warriors,9,76,215,F,0
+Ty Jerome,Western,Pacific,Warriors,10,75,195,G,0
+Jonathan Kuminga,Western,Pacific,Warriors,00,77,225,F,0
+Anthony Lamb,Western,Pacific,Warriors,40,76,227,F,0
+Kevon Looney,Western,Pacific,Warriors,5,79,222,C,1
+Moses Moody,Western,Pacific,Warriors,4,75,211,G,0
+Gary Payton II,Western,Pacific,Warriors,8,72,195,G,0
+Jordan Poole,Western,Pacific,Warriors,3,74,194,G,0
+Lester Quinones,Western,Pacific,Warriors,25,74,208,G,0
+Ryan Rollins,Western,Pacific,Warriors,2,73,180,G,0
+Klay Thompson,Western,Pacific,Warriors,11,76,220,G,1
+Andrew Wiggins,Western,Pacific,Warriors,22,77,197,F,1
+Deni Avdija,Eastern,South East,Wizards,9,79,210,F,0
+Bradley Beal,Eastern,South East,Wizards,3,74,207,G,1
+Xavier Cooks,Eastern,South East,Wizards,12,78,185,G,0
+Johnny Davis,Eastern,South East,Wizards,1,74,195,G,0
+Daniel Gafford,Eastern,South East,Wizards,21,80,234,C,1
+Taj Gibson,Eastern,South East,Wizards,67,79,232,F,0
+Anthony Gill,Eastern,South East,Wizards,16,78,230,F,0
+Jordan Goodwin,Eastern,South East,Wizards,7,73,200,G,0
+Jay Huff,Eastern,South East,Wizards,30,83,240,C,0
+Quenton Jackson,Eastern,South East,Wizards,29,75,173,G,0
+Corey Kispert,Eastern,South East,Wizards,24,76,224,F,0
+Kyle Kuzma,Eastern,South East,Wizards,33,79,221,F,1
+Monte Morris,Eastern,South East,Wizards,22,72,183,G,1
+Kendrick Nunn,Eastern,South East,Wizards,20,73,190,G,0
+Kristaps Porzingis,Eastern,South East,Wizards,6,85,240,C,1
+Isaiah Todd,Eastern,South East,Wizards,14,79,219,F,0
+Delon Wright,Eastern,South East,Wizards,55,75,185,G,0
+Bam Adebayo,Eastern,South East,Heat,13,79,255,C,1
+Jimmy Butler,Eastern,South East,Heat,22,77,230,F,1
+Jamal Cain,Eastern,South East,Heat,8,77,191,F,0
+Udonis Haslem,Eastern,South East,Heat,40,78,235,F,0
+Tyler Herro,Eastern,South East,Heat,14,75,195,G,1
+Haywood Highsmith,Eastern,South East,Heat,24,74,220,F,0
+Nikola Jovic,Eastern,South East,Heat,5,80,205,F,0
+Kevin Love,Eastern,South East,Heat,2,78,251,F,0
+Kyle Lowry,Eastern,South East,Heat,7,70,196,G,1
+Caleb Martin,Eastern,South East,Heat,16,75,205,F,0
+Victor Oladipo,Eastern,South East,Heat,4,74,213,G,0
+Duncan Robinson,Eastern,South East,Heat,55,77,215,F,0
+Orlando Robinson,Eastern,South East,Heat,25,80,235,C,0
+Max Strus,Eastern,South East,Heat,31,75,215,G,1
+Gabe Vincent,Eastern,South East,Heat,2,73,200,G,0
+Omer Yurtseven,Eastern,South East,Heat,77,81,275,C,0
+Cody Zeller,Eastern,South East,Heat,44,81,240,C,0
+LaMelo Ball,Eastern,South East,Hornets,1,77,180,G,1
+James Bouknight,Eastern,South East,Hornets,2,74,190,G,0
+Gordon Hayward,Eastern,South East,Hornets,20,77,225,F,1
+Kai Jones,Eastern,South East,Hornets,23,77,221,F,0
+Theo Maledon,Eastern,South East,Hornets,9,75,175,G,0
+Cody Martin,Eastern,South East,Hornets,11,76,205,F,0
+Bryce McGowens,Eastern,South East,Hornets,7,76,175,G,0
+Svi Mykhailiuk,Eastern,South East,Hornets,17,77,205,G,0
+Kelly Oubre Jr,Eastern,South East,Hornets,12,76,203,G,1
+Nick Richards,Eastern,South East,Hornets,4,82,245,C,0
+Terry Rozier,Eastern,South East,Hornets,3,71,190,G,0
+Kobi Simmons,Eastern,South East,Hornets,23,75,180,G,0
+Dennis Smith Jr,Eastern,South East,Hornets,8,72,205,G,0
+Xavier Sneed,Eastern,South East,Hornets,19,75,215,F,0
+JT Thor,Eastern,South East,Hornets,21,79,203,F,0
+P.J. Washington,Eastern,South East,Hornets,25,77,230,F,1
+Mark Williams,Eastern,South East,Hornets,5,82,240,C,1
+Saddiq Bey,Eastern,South East,Hawks,41,77,215,F,0
+Bogdan Bogdanovic,Eastern,South East,Hawks,13,75,225,G,0
+Clint Capela,Eastern,South East,Hawks,15,80,256,C,1
+John Collins,Eastern,South East,Hawks,20,79,226,F,1
+Bruno Fernando,Eastern,South East,Hawks,0,80,240,F,0
+Trent Forrest,Eastern,South East,Hawks,2,74,210,G,0
+AJ Griffin,Eastern,South East,Hawks,14,76,220,F,0
+Aaron Holiday,Eastern,South East,Hawks,3,70,185,G,0
+De'Andre Hunter,Eastern,South East,Hawks,12,78,221,F,1
+Jalen Johnson,Eastern,South East,Hawks,1,78,219,F,0
+Vit Krejci,Eastern,South East,Hawks,27,78,195,G,0
+Tyrese Martin,Eastern,South East,Hawks,22,76,215,G,0
+Garrison Matthews,Eastern,South East,Hawks,25,76,215,G,0
+Dejounte Murray,Eastern,South East,Hawks,5,75,180,G,1
+Onyeka Okongwu,Eastern,South East,Hawks,17,79,240,F,0
+Donovan Williams,Eastern,South East,Hawks,4,76,190,G,0
+Trae Young,Eastern,South East,Hawks,11,71,164,G,1
+Grayson Allen,Eastern,Central,Bucks,12,74,196,G,1
+Giannis Antetokounmpo,Eastern,Central,Bucks,34,81,242,F,1
+Thanasis Antetokounmpo,Eastern,Central,Bucks,43,77,219,F,0
+MarJon Beauchamp,Eastern,Central,Bucks,0,77,199,F,0
+Jevon Carter,Eastern,Central,Bucks,5,71,200,G,0
+Pat Connaughton,Eastern,Central,Bucks,24,75,209,G,0
+Jae Crowder,Eastern,Central,Bucks,99,76,235,F,0
+Goran Dragic,Eastern,Central,Bucks,31,73,190,G,0
+AJ Green,Eastern,Central,Bucks,20,75,190,G,0
+Jrue Holiday,Eastern,Central,Bucks,21,74,205,G,1
+Joe Ingles,Eastern,Central,Bucks,7,78,220,F,0
+Meyers Leonard,Eastern,Central,Bucks,3,82,260,C,0
+Brook Lopez,Eastern,Central,Bucks,11,82,282,C,1
+Wesley Matthews,Eastern,Central,Bucks,23,74,220,G,0
+Khris Middleton,Eastern,Central,Bucks,22,77,222,F,1
+Bobby Portis,Eastern,Central,Bucks,9,80,250,F,0
+Lindell Wigginton,Eastern,Central,Bucks,28,71,189,G,0
+Oshae Brisset,Eastern,Central,Pacers,12,77,210,F,0
+Kendall Brown,Eastern,Central,Pacers,10,77,205,G,0
+Chris Duarte,Eastern,Central,Pacers,3,75,190,G,0
+Tyrese Haliburton,Eastern,Central,Pacers,0,75,185,G,1
+Buddy Hield,Eastern,Central,Pacers,24,74,220,G,1
+George Hill,Eastern,Central,Pacers,7,74,188,G,0
+Serge Ibaka,Eastern,Central,Pacers,25,80,235,F,0
+Isaiah Jackson,Eastern,Central,Pacers,22,79,205,F,0
+James Johnson,Eastern,Central,Pacers,16,77,240,F,0
+Bennedict Mathurin,Eastern,Central,Pacers,00,75,210,F,0
+T.J. McConnell,Eastern,Central,Pacers,9,71,190,G,0
+Andrew Nembhard,Eastern,Central,Pacers,2,73,191,G,1
+Aaron Nesmith,Eastern,Central,Pacers,23,75,215,F,1
+Jordan Nwora,Eastern,Central,Pacers,13,78,225,F,0
+Jalen Smith,Eastern,Central,Pacers,25,79,215,F,0
+Daniel Theis,Eastern,Central,Pacers,27,78,245,C,0
+Myles Turner,Eastern,Central,Pacers,33,81,250,C,1
+Gabe York,Eastern,Central,Pacers,32,73,190,G,0
+Marvin Bagley III,Eastern,Central,Pistons,35,80,235,F,1
+Buddy Boeheim,Eastern,Central,Pistons,27,76,205,F,0
+Bojan Bogdanovic,Eastern,Central,Pistons,44,77,226,F,1
+Alec Burks,Eastern,Central,Pistons,5,76,214,G,0
+Cade Cunningham,Eastern,Central,Pistons,2,77,220,G,0
+Hamidou Diallo,Eastern,Central,Pistons,6,75,202,G,0
+Jalen Duren,Eastern,Central,Pistons,0,81,250,C,0
+R.J. Hampton,Eastern,Central,Pistons,14,74,175,G,0
+Killian Hayes,Eastern,Central,Pistons,7,75,195,G,1
+Jaden Ivey,Eastern,Central,Pistons,23,74,195,G,1
+Cory Joseph,Eastern,Central,Pistons,18,73,200,G,0
+Isaiah Livers,Eastern,Central,Pistons,12,76,232,F,0
+Rodney McGruder,Eastern,Central,Pistons,17,74,205,G,0
+Eugene Omoruyi,Eastern,Central,Pistons,97,76,235,F,0
+Jared Rhoden,Eastern,Central,Pistons,8,76,210,G,0
+Isaiah Stewart,Eastern,Central,Pistons,28,78,250,C,0
+James Wiseman,Eastern,Central,Pistons,13,82,240,C,1
+Jarrett Allen,Eastern,Central,Cavaliers,31,79,243,C,1
+Mamadi Diakite,Eastern,Central,Cavaliers,21,79,228,F,0
+Darius Garland,Eastern,Central,Cavaliers,10,71,192,G,1
+Danny Green,Eastern,Central,Cavaliers,14,76,215,F,0
+Caris LeVert,Eastern,Central,Cavaliers,3,76,205,G,0
+Robin Lopez,Eastern,Central,Cavaliers,33,82,281,C,0
+Sam Merrill,Eastern,Central,Cavaliers,20,74,205,G,0
+Donovan Mitchell,Eastern,Central,Cavaliers,45,71,215,G,1
+Evan Mobley,Eastern,Central,Cavaliers,4,81,215,F,1
+Isaiah Mobley,Eastern,Central,Cavaliers,15,78,238,F,0
+Raul Neto,Eastern,Central,Cavaliers,19,72,180,G,0
+Isaac Okoro,Eastern,Central,Cavaliers,35,75,225,F,1
+Cedi Osman,Eastern,Central,Cavaliers,16,77,230,F,0
+Ricky Rubio,Eastern,Central,Cavaliers,13,72,190,G,0
+Lamar Stevens,Eastern,Central,Cavaliers,8,76,230,F,0
+Dean Wade,Eastern,Central,Cavaliers,32,79,228,F,0
+Dylan Windler,Eastern,Central,Cavaliers,9,77,196,G,0
+Lonzo Ball,Eastern,Central,Bulls,2,76,190,G,1
+Patrick Beverly,Eastern,Central,Bulls,21,72,180,G,0
+Alex Caruso,Eastern,Central,Bulls,6,75,186,G,0
+DeMar DeRozan,Eastern,Central,Bulls,11,76,220,F,1
+Ayo Dosunmu,Eastern,Central,Bulls,12,75,200,G,0
+Andre Drummond,Eastern,Central,Bulls,3,81,279,C,0
+Javonte Green,Eastern,Central,Bulls,24,75,205,F,0
+Carlik Jones,Eastern,Central,Bulls,22,70,174,G,0
+Derrick Jones Jr,Eastern,Central,Bulls,5,76,210,F,0
+Zach LaVine,Eastern,Central,Bulls,8,75,200,G,1
+Justin Lewis,Eastern,Central,Bulls,34,77,245,F,0
+Marko Simonovic,Eastern,Central,Bulls,19,82,220,C,0
+Terry Taylor,Eastern,Central,Bulls,32,74,230,F,0
+Dalen Terry,Eastern,Central,Bulls,25,77,195,F,0
+Nikola Vucevic,Eastern,Central,Bulls,9,80,260,C,1
+Coby White,Eastern,Central,Bulls,0,75,195,G,0
+Patrick Williams,Eastern,Central,Bulls,44,77,215,F,1
+Precious Achiuwa,Eastern,Atlantic,Raptors,5,78,225,F,0
+O.G. Anunoby,Eastern,Atlantic,Raptors,3,77,232,F,1
+Dalano Banton,Eastern,Atlantic,Raptors,45,77,204,G,0
+Scottie Barnes,Eastern,Atlantic,Raptors,4,78,225,F,1
+Will Barton,Eastern,Atlantic,Raptors,1,75,181,G,0
+Chris Boucher,Eastern,Atlantic,Raptors,25,79,200,F,0
+Jeff Dowtin Jr,Eastern,Atlantic,Raptors,20,73,177,G,0
+Malachi Flynn,Eastern,Atlantic,Raptors,22,71,175,G,0
+Ron Harper Jr,Eastern,Atlantic,Raptors,8,75,245,F,0
+Christian Koloko,Eastern,Atlantic,Raptors,35,82,230,C,0
+Jakob Poeltl,Eastern,Atlantic,Raptors,19,81,245,C,1
+Otto Porter Jr,Eastern,Atlantic,Raptors,32,78,198,F,0
+Pascal Siakam,Eastern,Atlantic,Raptors,43,78,230,F,1
+Gary Trent Jr,Eastern,Atlantic,Raptors,33,75,209,G,0
+Fred VanVleet,Eastern,Atlantic,Raptors,23,70,197,G,1
+Joe Wieskamp,Eastern,Atlantic,Raptors,11,76,205,F,0
+Thaddeus Young,Eastern,Atlantic,Raptors,21,78,235,F,0
+Dewayne Dedmon,Eastern,Atlantic,76ers,14,80,245,C,0
+Joel Embiid,Eastern,Atlantic,76ers,21,82,280,C,1
+James Harden,Eastern,Atlantic,76ers,1,75,220,G,1
+Montrezel Harrell,Eastern,Atlantic,76ers,5,77,240,C,0
+Tobias Harris,Eastern,Atlantic,76ers,12,77,226,F,1
+Danuel House Jr,Eastern,Atlantic,76ers,25,76,220,F,0
+Louis King,Eastern,Atlantic,76ers,23,77,205,F,0
+Furkan Korkmaz,Eastern,Atlantic,76ers,30,77,202,G,0
+Tyrese Maxey,Eastern,Atlantic,76ers,0,72,200,G,1
+Mac McClung,Eastern,Atlantic,76ers,9,72,185,G,0
+Jalen McDaniels,Eastern,Atlantic,76ers,7,79,205,F,0
+De'Anthony Melton,Eastern,Atlantic,76ers,8,72,200,G,0
+Shake Milton,Eastern,Atlantic,76ers,18,75,205,G,0
+Georges Niang,Eastern,Atlantic,76ers,20,77,230,F,0
+Paul Reed,Eastern,Atlantic,76ers,44,79,210,F,0
+Jaden Springer,Eastern,Atlantic,76ers,11,74,202,G,0
+PJ Tucker,Eastern,Atlantic,76ers,17,75,245,F,1
+RJ Barrett,Eastern,Atlantic,Knicks,9,76,214,G,1
+Jalen Brunson,Eastern,Atlantic,Knicks,11,71,190,G,1
+Evan Fournier,Eastern,Atlantic,Knicks,13,76,205,G,0
+Quentin Grimes,Eastern,Atlantic,Knicks,6,74,210,G,1
+Josh Hart,Eastern,Atlantic,Knicks,3,74,215,G,0
+Isaiah Hartenstein,Eastern,Atlantic,Knicks,55,82,250,C,0
+DaQuan Jeffries,Eastern,Atlantic,Knicks,8,75,222,G,0
+Trevor Keels,Eastern,Atlantic,Knicks,3,74,221,G,0
+Miles McBride,Eastern,Atlantic,Knicks,2,72,195,G,0
+Immanuel Quickley,Eastern,Atlantic,Knicks,5,73,190,G,0
+Julius Randle,Eastern,Atlantic,Knicks,30,78,250,F,1
+Mitchell Robinson,Eastern,Atlantic,Knicks,23,82,240,C,1
+Derrick Rose,Eastern,Atlantic,Knicks,4,73,200,G,0
+Jericho Sims,Eastern,Atlantic,Knicks,45,79,250,C,0
+Obi Toppin,Eastern,Atlantic,Knicks,1,79,220,F,0
+Duane Washington Jr,Eastern,Atlantic,Knicks,44,72,197,G,0
+Malcolm Brogdon,Eastern,Atlantic,Celtics,13,76,229,G,0
+Jaylen Brown,Eastern,Atlantic,Celtics,7,78,223,G,1
+JD Davison,Eastern,Atlantic,Celtics,20,73,195,G,0
+Danilo Gallinari,Eastern,Atlantic,Celtics,8,80,236,F,0
+Blake Griffin,Eastern,Atlantic,Celtics,91,79,250,F,0
+Sam Hauser,Eastern,Atlantic,Celtics,30,77,217,F,0
+Al Horford,Eastern,Atlantic,Celtics,42,79,240,C,1
+Mfiondu Kabengele,Eastern,Atlantic,Celtics,28,80,250,C,0
+Luke Kornet,Eastern,Atlantic,Celtics,40,84,250,C,0
+Mike Muscala,Eastern,Atlantic,Celtics,57,81,240,C,0
+Payton Pritchard,Eastern,Atlantic,Celtics,11,71,195,G,0
+Marcus Smart,Eastern,Atlantic,Celtics,36,74,220,G,1
+Jayson Tatum,Eastern,Atlantic,Celtics,0,78,210,F,1
+Derrick White,Eastern,Atlantic,Celtics,9,74,190,G,0
+Grant Williams,Eastern,Atlantic,Celtics,12,76,236,F,0
+Robert Williams,Eastern,Atlantic,Celtics,44,79,237,C,1
+Mikal Bridges,Eastern,Atlantic,Nets,1,78,209,F,1
+Moses Brown,Eastern,Atlantic,Nets,0,86,245,C,0
+Nic Claxton,Eastern,Atlantic,Nets,33,83,215,C,1
+Seth Curry,Eastern,Atlantic,Nets,30,73,185,G,0
+Spencer Dinwiddie,Eastern,Atlantic,Nets,26,78,215,G,1
+David Duke Jr,Eastern,Atlantic,Nets,6,76,204,G,0
+Dorian Finney-Smith,Eastern,Atlantic,Nets,28,79,220,F,1
+Joe Harris,Eastern,Atlantic,Nets,12,78,220,F,0
+Cameron Johnson,Eastern,Atlantic,Nets,2,80,210,F,1
+Patty Mills,Eastern,Atlantic,Nets,8,72,180,G,0
+Royce O'Neale,Eastern,Atlantic,Nets,00,78,226,F,0
+Day'Ron Sharpe,Eastern,Atlantic,Nets,20,81,265,C,0
+Ben Simmons,Eastern,Atlantic,Nets,10,82,240,G,0
+Dru Smith,Eastern,Atlantic,Nets,9,75,203,G,0
+Edmond Sumner,Eastern,Atlantic,Nets,4,76,196,G,0
+Cam Thomas,Eastern,Atlantic,Nets,24,75,210,G,0
+Yuta Watanabe,Eastern,Atlantic,Nets,18,80,215,F,0
